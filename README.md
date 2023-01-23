@@ -19,6 +19,8 @@
 
 * App served @ `http://localhost:8181` without nodemon
 
+## In client input WebSocket URL add port 8080 to localhost - `localhost:8080`
+
 ---
 
 **All commands**
